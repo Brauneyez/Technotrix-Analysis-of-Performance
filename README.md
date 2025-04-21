@@ -11,7 +11,7 @@ Geographical operations is in five countries namely; China, Japan, South Korea, 
 
 This project analysed the company’s sales, profitability, inventory and demand management for insights to business growth and expansion opportunities.
 
-![image](https://github.com/user-attachments/assets/207f056e-6df3-4805-b2dc-250622f1ade8)
+
 
 ![image](https://github.com/user-attachments/assets/4138e63e-5b68-43fa-9436-4969fcb63a24)
 
