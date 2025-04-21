@@ -25,7 +25,7 @@ Performance variances are narrow across the parameters (i.e. products, sectors, 
 
 Low sales in H1 of the year and plateaued at 2% above the H1 average in H2 safe for a one-off spike in April.
 
-![image](https://github.com/user-attachments/assets/207f056e-6df3-4805-b2dc-250622f1ade8)
+
 
 ![image](https://github.com/user-attachments/assets/165a21a6-5bd7-4dd7-bba3-dfcfebfe2495)
 
@@ -38,7 +38,7 @@ In terms of products demands – Sensors and Robotics were close in sales volume
 
 Geographical distribution of customers is even across the regions of operations: North-America, Europe and Asia.
 
-![image](https://github.com/user-attachments/assets/207f056e-6df3-4805-b2dc-250622f1ade8)
+
 
 ![image](https://github.com/user-attachments/assets/6e5ec5c4-95db-48ad-b4da-2fcea490fbe3)
 
@@ -52,7 +52,7 @@ Given the lowest production cost; Microchips produced in the US and South Korea 
 
 Production efforts should be intensified in the 7-months period July through February (Q3 being the period with lowest cost).
 
-![image](https://github.com/user-attachments/assets/207f056e-6df3-4805-b2dc-250622f1ade8)
+
 
 ![image](https://github.com/user-attachments/assets/a483a372-b0d1-4471-8ba8-fe1702551dfe)
 
@@ -71,7 +71,7 @@ However, factors like political stability and labour cost should be considered.
 
 Not ruling out Africa, especially countries rich in the required minerals/materials.
 
-![image](https://github.com/user-attachments/assets/207f056e-6df3-4805-b2dc-250622f1ade8)
+
 
 ![image](https://github.com/user-attachments/assets/a9e9160f-8f48-48b4-877d-416efbefcf8e)
 
